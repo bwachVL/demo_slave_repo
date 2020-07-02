@@ -1,2 +1,2 @@
 console.log('demo_slave_repo');
-console.log('1');
+console.log('2');
